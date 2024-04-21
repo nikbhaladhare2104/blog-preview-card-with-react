@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <div className="card">
         <div className="card-content">
-          <img src="src/assets/images/illustration-article.svg" alt="blog-image" className="blog-image" />
+          <img src="/images/illustration-article.svg" alt="blog-image" className="blog-image" />
           <button className="btn"> Learning </button>
           <p className="card-date">Published 21 Dec 2023</p> 
           <p className="card-title">HTML & CSS foundations </p>
@@ -22,7 +22,7 @@ function App() {
             presentation. 
           </p>
           <div className="card-author">
-            <img src="src/assets/images/profile_pic.png" alt="profile-pic" width={32} />
+            <img src="/images/profile_pic.png" alt="profile-pic" width={32} />
             <p> Nikhil Bhaladhare</p>
           </div>
      
